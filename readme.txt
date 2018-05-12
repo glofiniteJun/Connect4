@@ -1,4 +1,4 @@
 Connect4 AI
 
-언어: python3
-Final_conFour.py 실행하세요
+Language: python3
+Start "Final_conFour.py" to run the code 
